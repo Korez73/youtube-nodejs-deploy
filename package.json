@@ -1,0 +1,12 @@
+{
+  "name": "youtube-nodejs-deploy",
+  "version": "1.0.0",
+  "description": "The last in my series of nodejs videos that go along with youtube-nodejs-tutorial where I will now deploy to render.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
